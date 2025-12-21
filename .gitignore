@@ -1,1 +1,6 @@
 .venv/
+render_logs
+runs
+wandb
+models
+data/
