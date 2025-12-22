@@ -1,1 +1,6 @@
 .venv/
+/logs
+/wandb
+/runs
+/Technical-Analysis-Indicators---Pandas-master
+/models
